@@ -1,6 +1,7 @@
 
 form{
-    background-color:rgb(171, 143, 179);
+  
+    background-color:#b0b0df;
 }
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -9,10 +10,23 @@ h1{
 }
 h4{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color:rgb(59, 130, 0);
+    color:rgb(214, 60, 13);
+}
+h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(8, 75, 6)
 }
 p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color:rgb(0, 52, 130);
 
+}
+.card img{
+    border-radius: 10%;
+}
+.navbar img{
+    height: 70px;
+}
+.mainPage{
+    background-color: rgb(229, 250, 135);
 }
